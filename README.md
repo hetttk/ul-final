@@ -15,8 +15,6 @@ Credit Card Dataset for Clustering (Kaggle): https://www.kaggle.com/datasets/arj
 |---|---|
 | `CreditCardSegmentation_UnsupervisedLearning.ipynb` | Fully executed notebook (Steps 1-7) |
 | `CC_GENERAL.csv` | Dataset |
-| `cc_scaler.pkl` | Saved `StandardScaler` |
-| `cc_segmentation_model.pkl` | Saved final K-Means model |
 | `summary_report.md` | Short project report |
 | `requirements.txt` | Python libraries |
 | `images/` | Screenshots used in this README |
