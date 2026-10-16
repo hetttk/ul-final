@@ -72,9 +72,3 @@ K-Means is the recommended model: best silhouette and Calinski-Harabasz, stable 
 
 **DBSCAN clusters in 3D (noise in grey)**
 ![DBSCAN 3D](images/dbscan_3d.png)
-
-## Video
-Video explanation (face + screen): **<PASTE YOUR GOOGLE DRIVE / YOUTUBE (UNLISTED) LINK HERE>**
-
-## Author
-<Your Name> - <Your GRID>
